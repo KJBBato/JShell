@@ -1,0 +1,10 @@
+Worked on:
+- New design of CommandExecutor 
+- Added new Command classes
+
+
+Planning to work on:
+- New commands for mv and cp
+
+Am I currently blocked on anything:
+N/A

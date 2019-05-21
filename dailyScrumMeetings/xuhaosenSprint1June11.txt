@@ -1,0 +1,8 @@
+a) What did I work on last time? 
+- Completed crc card design for CommandInterpreter and PrintFormatter classes.
+
+b) What do I plan to work on now?
+- Method signatures for CommandInterpreter and PrintFormatter classes along with implementation
+
+c) Am I blocked on anything?  
+-

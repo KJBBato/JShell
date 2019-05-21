@@ -1,0 +1,24 @@
+Sprint 2 Backlog.  
+
+June 14th to June 19th
+
+Tasks to be completed in this sprint:
+- Method signatures improvements and updates
+- Implementation of each class
+- A working JShell prototype
+
+
+Specific tasks to be accomplished:
+- Implementation of each class
+- A JShell with basic functionality
+	- A working file system, JShell UI, and some commands completed by the end of the sprint
+
+
+Members responsibility:
+-Kevin Bato: Implementation for CommandHistory, FileSystem and UI
+
+-Sin Chi Chiu: Implementation for Content, Folder and File
+
+-Jason Chow Fong: Implementation for ContentEditor, DirectoryStack and Documentation
+
+-Haosen Xu: Implementation for CommandInterpreter and PrintFormatter

@@ -1,0 +1,11 @@
+Worked On:
+- Unittested for FileSystem, PrintFormatter, CommandInterpreter
+- Fixed a few test cases in CommandHistory
+- Added a few exceptions
+
+Planning to do:
+- Make sure everything is formatted
+- Fix bugs in Jshell
+
+Blocked on anything:
+- N/A

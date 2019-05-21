@@ -1,0 +1,9 @@
+a) What did I work on last time?
+- Testing the CommandExecution class
+- Small fixes in other classes
+
+b) What do I plan to work on now?
+- Finish up testing
+- Other needed fixes
+
+c) Am I blocked on anything?

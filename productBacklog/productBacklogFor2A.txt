@@ -1,0 +1,37 @@
+User stories							Est. time
+
+A working in memory file system					6 hrs.	
+
+A Jshell interface						6 hrs.
+
+To be able to create file and write strings			3 hrs.
+to it
+
+To be able to create folder at the current			5 hrs.
+or a specific path
+
+To be able to move a folder/file to a 				2 hrs.
+different path
+
+List all the contents at the current or a 			4 hrs.
+specific path
+
+Show the current working directory				2 hrs.
+
+To be able to save and remove current working 			6 hrs.
+directory path
+
+Show the history of recent commands				6 hrs.
+
+Display the contents of a file					2 hrs.
+
+To be able to append strings to a specific file			2 hrs.
+
+To be able to display multiple files' contents			2 hrs.
+concatenated in the shell
+
+Display documentation for a specific command			10 hrs.
+
+Error messages/exception handling				10 hrs.
+
+To be able to quit the shell with a command			2 hrs.

@@ -1,0 +1,7 @@
+Worked on:
+- crcCards design
+- Method signature for Content
+
+Planning to work on:
+- Method signature for File and Folder
+- Implementation of Content, File and Folder

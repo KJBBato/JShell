@@ -1,0 +1,8 @@
+a) What did I work on last time? 
+Adapting design of crc cards from Assignment1 for current design
+
+b) What do I plan to work on now?
+Further improvements dealing with design of crc cards.
+
+c) Am I blocked on anything?  
+-

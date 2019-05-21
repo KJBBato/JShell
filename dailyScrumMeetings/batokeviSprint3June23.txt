@@ -1,0 +1,10 @@
+Worked On:
+- Unittest for Content, File, Folder
+- Adding more exceptions
+
+Planning to do:
+- Continue Unittesting
+- Continue adding exceptions
+
+Blocked on anything:
+- N/A

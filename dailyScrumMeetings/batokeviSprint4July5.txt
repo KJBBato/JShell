@@ -1,0 +1,10 @@
+Worked On:
+- Created History and Ls command classes for new design
+- Created crc Cards for History and Ls
+
+Planning to do:
+- Finish recursion parameter on Ls command
+- Help design mv and cp
+
+Blocked on anything:
+- Finish converting to new command design for old commands

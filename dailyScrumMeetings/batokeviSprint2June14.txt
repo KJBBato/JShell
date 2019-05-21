@@ -1,0 +1,10 @@
+Worked on:
+ - Completed CommandHistory implementation
+ - Unit tested CommandHistory
+ - Finished method signatures of UI and FileSystem
+
+Planning to do:
+ - Complete implementation for UI and FileSystem
+ - Unit test UI and FileSystem
+ - Integration testing for all classes
+ - Help prepare prototype

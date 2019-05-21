@@ -1,0 +1,8 @@
+Worked on:
+- Impelemention of Mv and Cp
+
+Planning to work on:
+- Continue working on impelemention of Mv and Cp
+
+Am I currently blocked on anything:
+N/A

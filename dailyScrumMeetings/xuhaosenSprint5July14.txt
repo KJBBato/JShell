@@ -1,0 +1,10 @@
+a) What did I work on last time?
+- Updated CommandInterpreter to format redirection
+- Testing of the CommandInterpreter class
+
+b) What do I plan to work on now?
+- JUnit for classes
+- Debug CommandInterpreter
+- Continue to make CommandInterpreter more efficient
+
+c) Am I blocked on anything?

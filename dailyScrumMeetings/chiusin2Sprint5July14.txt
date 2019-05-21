@@ -1,0 +1,11 @@
+Worked on:
+- Refactored CommandExecution
+- Refactored PrintFormatter
+- Fixed bugs
+
+
+Planning to work on:
+- Keep testing for JShell
+
+Am I currently blocked on anything:
+N/A

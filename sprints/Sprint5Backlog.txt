@@ -1,0 +1,25 @@
+Sprint 5 Backlog.  
+
+July 8th to July 15th
+
+Tasks to be completed in this sprint:
+- Complete implementation of new commands(ls -R, mv, cp, curl, !)
+- Testing JShell
+- Debug JShell
+
+
+Specific tasks to be accomplished:
+- Implementation of new commands
+- Fix known bugs from 2A
+- Create new JUnit test files
+- Update old JUnit test for refactored codes
+
+
+Members responsibility:
+-Kevin Bato: Implementation for ls -R and !number, JShell testing
+
+-Sin Chi Chiu: Implementation for mv, cp. Update FileSystem to be static, update JShell. JShell testing
+
+-Jason Chow Fong: Implementation for curl, grep, JShell testing
+
+-Haosen Xu: Update algorithm in CommandInterperter to work with new command algorithm.

@@ -1,0 +1,12 @@
+a) What did I work on last time?
+- Added and implemented InvalidPathException.java
+- Testing out the JShell
+- Minor bug fixes on CommandExecutor, and PrintFormatter
+
+b) What do I plan to work on now?
+- Testing for ContentEditor and DirectoryStack <-- still need to do
+- Testing and bug fixes on JShell
+- Adding and implementing more Exception classes as needed
+
+c) Am I blocked on anything?
+- Tracking down where new bugs are coming from, after some testing in JShell

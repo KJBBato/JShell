@@ -1,0 +1,11 @@
+a) What did I work on last time?
+- Completed Implementation of DirectoryStack
+- Testing out the JShell
+- Minor bug fixes on CommandExecutor, and PrintFormatter
+
+b) What do I plan to work on now?
+- Testing for ContentEditor and DirectoryStack <-- still need to do
+- Testing and bug fixes on JShell
+
+c) Am I blocked on anything?
+- Tracking down where new bugs are coming from, after some testing in JShell

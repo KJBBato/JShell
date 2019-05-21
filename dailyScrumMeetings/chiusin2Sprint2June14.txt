@@ -1,0 +1,10 @@
+Worked on:
+- Finished method signatures for Content, File, Folder
+- Impelemention of Content, File, Folder
+
+Planning to work on:
+- Continue working on implementation of Content, File and Folder
+- Improvement on method signatures for Content, File, Folder
+
+Am I currently blocked on anything:
+N/A

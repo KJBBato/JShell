@@ -1,0 +1,9 @@
+a) What did I work on last time? 
+- Helped find and fix bugs from current implementation of echo and cat commands
+- Started redesigning commandInterpreter class to fit with new commandExecution design
+
+b) What do I plan to work on now?
+- Continue redesign the input formatter to fit with the new design
+- Replace implementation in commandInterpreter with more efficient code
+
+c) Am I blocked on anything?

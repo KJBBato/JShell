@@ -1,0 +1,11 @@
+Worked on:
+- Completed impelemention of FileSystem and JShell
+- Added exception classes
+- Fixed bugs
+
+
+Planning to work on:
+- Testing on JShell to fix minor problems
+
+Am I currently blocked on anything:
+N/A

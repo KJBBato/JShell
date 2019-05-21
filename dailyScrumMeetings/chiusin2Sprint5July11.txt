@@ -1,0 +1,11 @@
+Worked on:
+- Completed Mv and Cp
+- Updated FileSystem to be static
+- Updated JShell
+
+Planning to work on:
+- Testing for mv and cp
+- Debug other problems in JShell
+
+Am I currently blocked on anything:
+N/A

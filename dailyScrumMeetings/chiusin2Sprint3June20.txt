@@ -1,0 +1,10 @@
+Worked on:
+- Impelemention of JShell and FileSystem
+- Debugging for InputInterpreter
+
+Planning to work on:
+- Continue impelemention of JShell and FileSystem
+- Start testing the JShell program
+
+Am I currently blocked on anything:
+- Experiencing problems in FileSystem that require InputInterpreter to be completed first in order to continue

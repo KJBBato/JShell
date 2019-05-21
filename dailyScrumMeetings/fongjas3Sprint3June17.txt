@@ -1,0 +1,10 @@
+a) What did I work on last time?
+- Adding to and Fixing Implementation of Documentation Class
+- Completed ContentEditor Implementation
+- Basic Implementation of DirectoryStack (may need to add more)
+
+b) What do I plan to work on now?
+- Testing for ContentEditor and DirectoryStack
+- Decide how to properly handle exceptions in DirectoryStack (in terms of design)
+
+c) Am I blocked on anything?

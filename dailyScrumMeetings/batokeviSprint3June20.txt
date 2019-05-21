@@ -1,0 +1,11 @@
+Worked On:
+- Fixed a few bugs on CommandHistory
+- Recent command history fixed format on Jshell output
+- Removed and Changed implementation on FileSystem
+
+Planning to do:
+- Implement Jshell Exception class
+- Debug and test Jshell program
+
+Blocked on anything:
+- Cannot test on Jshell until classes are fully implemented

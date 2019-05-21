@@ -1,0 +1,27 @@
+Sprint 4 Backlog.  
+
+July 2nd to July 8th
+
+Tasks to be completed in this sprint:
+- CRCcards update
+- Fix known bugs
+- Update algorithms in some classes
+- Complete basic functionality of new commands(ls -R, mv, cp, curl, !)
+
+
+Specific tasks to be accomplished:
+- Update CRCcards to meet new requirements
+- Fix the bug where a file object can end path with "/"
+- Update algorithm in Folder to meet new requirement
+- Update algorithm in CommandExecutor for better executions
+- Add new commands: ls -R,  mv, cp, curl, and !
+
+
+Members responsibility:
+-Kevin Bato: Algorithm design for command mv and cp 
+
+-Sin Chi Chiu: Update algorithm in Folder, update CRCcards
+
+-Jason Chow Fong: Algorithm design for command curl, !
+
+-Haosen Xu: Update algorithm in CommandExecutor, fix bugs in CommandFormatter

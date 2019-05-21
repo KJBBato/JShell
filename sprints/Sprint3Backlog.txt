@@ -1,0 +1,24 @@
+Sprint 3 Backlog.  
+
+June 19th to June 27th
+
+Tasks to be completed in this sprint:
+- Testing JShell
+- Debugging
+- Exception handling
+- Finish JShell program
+
+
+Specific tasks to be accomplished:
+- Junit test
+- Exception class
+- Complete JShell program
+
+Members responsibility:
+-Kevin Bato: Testing/debugging for JShell program, exception class implementation.
+
+-Sin Chi Chiu: Complete implementation for FileSystem and finish JShell merging
+
+-Jason Chow Fong: Testing/debugging for JShell program, exception class implementation.
+
+-Haosen Xu: Debugging for CommandInterpreter and PrintFormatter

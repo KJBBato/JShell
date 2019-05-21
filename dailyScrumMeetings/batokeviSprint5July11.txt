@@ -1,0 +1,11 @@
+Worked On:
+- Finished Ls implementation with recursion and added exceptions 
+- Finished History implementation and added exceptions
+- Design on !number renamed the command to a more descriptive name, Recall
+
+Planning to do:
+- Finish !number commands and add exceptions
+- Redo test package for newer and older commands
+
+Blocked on anything:
+-N/A

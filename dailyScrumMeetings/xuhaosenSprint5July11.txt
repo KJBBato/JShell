@@ -1,0 +1,9 @@
+a) What did I work on last time? 
+- Updated Man class to accomodate new commands
+- Redesigned commandInterpreter class to fit with new commandExecution design
+
+b) What do I plan to work on now?
+- Find a way to make implementation in commandInterpreter more efficient
+- Debug commandInterpreter class
+
+c) Am I blocked on anything?

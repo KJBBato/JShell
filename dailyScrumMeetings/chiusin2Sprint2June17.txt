@@ -1,0 +1,11 @@
+Worked on:
+- Finished impelemention of Content, File, Folder
+- Started JShell impelemention
+- Improved overall structure design
+
+Planning to work on:
+- Continue working on implementation of JShell
+- Start testing on basic functionality of JShell
+
+Am I currently blocked on anything:
+- Experiencing trouble with saving valid commands to histroy log

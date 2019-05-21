@@ -1,0 +1,11 @@
+a) What did I work on last time?
+- Added Method Signatures for DirectoryStack, ContentEditor
+- Completed Implementation of Documentation Class
+- Partial Implementation of ContentEditor -->  Now follows design properly
+
+b) What do I plan to work on now?
+- Start Implementation of DirectoryStack
+- Finish up implementation of ContentEditor
+
+
+c) Am I blocked on anything?

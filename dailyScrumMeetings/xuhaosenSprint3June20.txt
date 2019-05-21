@@ -1,0 +1,12 @@
+a) What did I work on last time? 
+- Testing of CommandInterpreter class bugs
+- Finished implementation of CommandExecutor, started testing
+- Finished PrintFormatter class
+
+b) What do I plan to work on now?
+- Testing of CommandExecutor and printFormatter
+- Fixing bugs in CommandInterpreter class
+
+c) Am I blocked on anything?  
+- Having trouble finding bugs on CommandInterpreter class.
+- Some methods in CommandExecutor requiring not yet implemented methods in FileSystem class to work. 

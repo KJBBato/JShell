@@ -1,0 +1,9 @@
+a) What did I work on last time? 
+- Completed method signatures for CommandInterpreter and PrintFormatter classes.
+- Started implementation of CommandInterpreter class
+
+b) What do I plan to work on now?
+- Implementation of CommandInterpreter and PrintFormatter classes along with unit testing
+
+c) Am I blocked on anything?  
+-

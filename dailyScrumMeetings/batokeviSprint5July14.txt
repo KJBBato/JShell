@@ -1,0 +1,11 @@
+Worked On:
+- Updated old JUnit tests
+- Ls, History, Recall Commands
+- Fixing minor bugs
+
+Planning to Do:
+- Finish new Junit Test for new command classes
+- Look for bugs on Jshell
+
+Blocked on anything:
+- N/A

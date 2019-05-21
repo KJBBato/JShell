@@ -1,0 +1,12 @@
+a) What did I work on last time? 
+- Fixed bugs in CommandInterpreter class
+- Fixed bugs in CommandExecutor class
+- Fixed bugs in PrintFormatter class
+
+b) What do I plan to work on now?
+- Continue testing CommandInterpreter, CommandExecutor, and PrintFormatter classes
+- Comment and document all three classes
+- Handle exceptions in CommandExecutor
+
+c) Am I blocked on anything?  
+- Need all Exception classes finished to handle exceptions

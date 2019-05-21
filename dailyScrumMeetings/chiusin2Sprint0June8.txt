@@ -1,0 +1,7 @@
+Worked on:
+- product backlog
+- crcCards design
+
+Planning to work on:
+- Complete crcCards
+- Implementation when crcCards are completed

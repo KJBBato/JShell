@@ -1,0 +1,22 @@
+Sprint 1 Backlog.  
+
+June 8th to June 13th
+
+Tasks to be completed in this sprint:
+- Finish crcCards design
+- Get started on java files for each class
+
+
+Specific tasks to be accomplished:
+- Finish crcCards' responsibilities and collaborators
+- Finish method signatures for each crcCard class(in a java file)
+
+
+Members responsibility:
+-Kevin Bato: crcCards design and method signatures for CommandHistory, FileSystem and UI
+
+-Sin Chi Chiu: crcCards design and method signatures for Content, Folder and File
+
+-Jason Chow Fong: crcCards design and method signatures for ContentEditor, DirectoryStack and Documentation
+
+-Haosen Xu: crcCards design and method signatures for CommandInterpreter and PrintFormatter

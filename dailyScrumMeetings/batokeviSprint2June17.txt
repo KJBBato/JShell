@@ -1,0 +1,11 @@
+Worked on:
+ - Finished FileSystem implementation (Still testing)
+ - Finished UI implementation but will change all its implementation to Jshell
+
+Planning to do:
+ - Unittest for FileSystem
+ - Integration testing for all classes
+ - Help prepare prototype
+
+Blocked on anything:
+ - N/A

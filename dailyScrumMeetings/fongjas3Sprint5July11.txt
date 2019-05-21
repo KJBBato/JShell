@@ -1,0 +1,12 @@
+a) What did I work on last time?
+- Implemented the Grep Command
+- Filled out CRC cards for curl, grep
+- Fixed popd CRC card
+- Multiple fixes to Documentation
+- Various small fixes in other classes
+
+b) What do I plan to work on now?
+- Bugfix help
+- More testing
+
+c) Am I blocked on anything?

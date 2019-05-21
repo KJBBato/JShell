@@ -1,0 +1,10 @@
+a) What did I work on last time? 
+- Found and fixed bugs from previous version of the assignment
+- Converted Echo command to the new command execution design 
+
+b) What do I plan to work on now?
+- Addition of new requirements to existing commands
+- Redesign the input formatter to fit with the new design
+
+c) Am I blocked on anything?  
+- New command execution design must be finished for the correct input formatting to be implemented

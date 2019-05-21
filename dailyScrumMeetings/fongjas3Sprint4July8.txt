@@ -1,0 +1,12 @@
+a) What did I work on last time?
+- Fixed issues with parameter reading in Pushd and Man commands
+- Implemented the Internet file-reading part of the Curl Command
+- Changed exception handling in the Curl command
+
+b) What do I plan to work on now?
+- Fill in CRC Card for grep
+- Implementation of grep
+- In Curl, writing information from internet to a File Object
+- Bugfix help
+
+c) Am I blocked on anything?

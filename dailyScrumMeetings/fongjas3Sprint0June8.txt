@@ -1,0 +1,9 @@
+a) What did I work on last time?
+    - added some user stories on product backlog
+    - formatting changes
+
+b) What do I plan to work on now?
+    - Complete CRC Cards
+    - Start on implementation of CRC Cards
+
+c) Am I blocked on anything?

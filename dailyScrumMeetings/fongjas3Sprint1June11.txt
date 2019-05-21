@@ -1,0 +1,9 @@
+a) What did I work on last time?
+- Completed CRC card for Documentation, DirectoryStack and ContentEditor classes.
+- Completed Method signatures for Documentation
+
+b) What do I plan to work on now?
+- Method signatures for DirectoryStack, ContentEditor
+- Implementation of Documentation, DirectoryStack, ContentEditor
+
+c) Am I blocked on anything?

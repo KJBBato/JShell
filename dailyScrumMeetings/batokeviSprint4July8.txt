@@ -1,0 +1,10 @@
+Worked On:
+- Implementation of Ls and !number
+- Design of recursive Ls
+
+Planning to Do:
+- Finish and fix minor bugs in Ls and !number
+- Move onto testing the commands
+
+Blocked on anything:
+- N/A

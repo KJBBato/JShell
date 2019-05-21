@@ -1,0 +1,15 @@
+a) What did I work on last time?
+- Added and implemented a number of Exception classes (can't remember them all)
+- Completed implementation of DirectoryStackTest, ContentEditorTest
+- Partial implementation of CommandExecutorTest
+- Various Fixes with custom Exceptions in other Classes
+- Testing of JShell
+- Minor Documentation Fixes + Exception fixes
+
+b) What do I plan to work on now?
+- Finish up CommandExecutorTest implementation
+- Make sure correct Custom Exceptions are being thrown
+- Testing and bug fixes on JShell
+
+c) Am I blocked on anything?
+- CommandExecutorTest is pretty big. Will take a lot of time to implement.

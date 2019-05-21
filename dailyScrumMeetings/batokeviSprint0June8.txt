@@ -1,0 +1,7 @@
+Worked on:
+  - added a few user stories in product backlog
+  - brainstorming ideas for crcCard design for upcoming meeting
+
+Planning to do:
+  - Complete crcCards
+  - Do assigned tasks given from the upcoming meeting
